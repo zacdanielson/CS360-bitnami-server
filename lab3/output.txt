@@ -1,0 +1,1039 @@
+nohup: ignoring input
+In main: creating thread 0
+In main: creating thread 1
+In main: creating thread 2
+In main: creating thread 3
+In main: creating thread 4
+In main: creating thread 5
+In main: creating thread 6
+In main: creating thread 7
+In main: creating thread 8
+In main: creating thread 9
+
+Starting server
+Making socket
+Binding to port 3000opened socket as hSocket (3) on port (3000) for stream i/o
+Server
+              sin_family        = 2
+              sin_addr.s_addr   = 0
+              sin_port          = 3000
+
+Making a listen queue of 30 elements
+Waiting for a connection
+
+Got a connection from 574BB80 (27221)
+Created socket 4
+
+Waiting for a connection
+GOT socket 4
+Thread ID 0x6
+
+got from browser 326
+GET / HTTP/1.1
+Host: 52.32.93.199:3000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Cache-Control: max-age=0
+
+
+
+rval: 326
+
+buffer: 
+GET / HTTP/1.1
+Host: 52.32.93.199:3000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Cache-Control: max-age=0
+
+
+
+socket: 4
+Got rval 1, path /
+fullpath: /home/bitnami/htdocs/CS360/lab2/
+/home/bitnami/htdocs/CS360/lab2/ is a directory 
+name test1.htm
+Relative Path: test1.htm
+name Makefile
+Relative Path: Makefile
+name sigint.cpp
+Relative Path: sigint.cpp
+name Landon_server.c
+Relative Path: Landon_server.c
+name test3.gif
+Relative Path: test3.gif
+name test4.jpg
+Relative Path: test4.jpg
+name ..
+Relative Path: ..
+name .
+Relative Path: .
+name server
+Relative Path: server
+name testDir
+Relative Path: testDir
+name server.c
+Relative Path: server.c
+name sigint
+Relative Path: sigint
+name Landon_server
+Relative Path: Landon_server
+name test2.txt
+Relative Path: test2.txt
+
+Closing the socket
+
+
+Got a connection from 574BB80 (15840)
+Created socket 5
+
+Waiting for a connection
+GOT socket 5
+Thread ID 0x7
+
+got from browser 300
+GET / HTTP/1.1
+Host: 52.32.93.199:3000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+
+
+rval: 300
+
+buffer: 
+GET / HTTP/1.1
+Host: 52.32.93.199:3000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+
+
+socket: 5
+Got rval 1, path /
+fullpath: /home/bitnami/htdocs/CS360/lab2/
+/home/bitnami/htdocs/CS360/lab2/ is a directory 
+name test1.htm
+Relative Path: test1.htm
+name Makefile
+Relative Path: Makefile
+name sigint.cpp
+Relative Path: sigint.cpp
+name Landon_server.c
+Relative Path: Landon_server.c
+name test3.gif
+Relative Path: test3.gif
+name test4.jpg
+Relative Path: test4.jpg
+name ..
+Relative Path: ..
+name .
+Relative Path: .
+name server
+Relative Path: server
+name testDir
+Relative Path: testDir
+name server.c
+Relative Path: server.c
+name sigint
+Relative Path: sigint
+name Landon_server
+Relative Path: Landon_server
+name test2.txt
+Relative Path: test2.txt
+
+Closing the socket
+
+
+Got a connection from 574BB80 (45835)
+Created socket 4
+
+Waiting for a connection
+GOT socket 4
+Thread ID 0x8
+
+got from browser 345
+GET /test1.htm HTTP/1.1
+Host: 52.32.93.199:3000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Referer: http://52.32.93.199:3000/
+Connection: keep-alive
+
+
+
+rval: 345
+
+buffer: 
+GET /test1.htm HTTP/1.1
+Host: 52.32.93.199:3000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Referer: http://52.32.93.199:3000/
+Connection: keep-alive
+
+
+
+socket: 4
+Got rval 1, path /test1.htm
+fullpath: /home/bitnami/htdocs/CS360/lab2/test1.htm
+/home/bitnami/htdocs/CS360/lab2/test1.htm is a regular file 
+file size = 453
+this
+
+Type: .htm
+TYPE: HTML
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 453
+
+Bytes: 453
+
+Closing the socket
+
+
+Got a connection from 100007F (36873)
+Created socket 5
+
+Waiting for a connection
+GOT socket 5
+Thread ID 0x9
+
+Got a connection from 100007F (36874)
+Created socket 4
+
+Waiting for a connection
+GOT socket 4
+Thread ID 0x5
+
+Got a connection from 100007F (36875)
+Created socket 6
+
+Waiting for a connection
+GOT socket 6
+Thread ID 0x4
+
+Got a connection from 100007F (36877)
+Created socket 7
+
+Waiting for a connection
+GOT socket 7
+Thread ID 0x3
+
+Got a connection from 100007F (36878)
+Created socket 8
+
+Waiting for a connection
+GOT socket 8
+Thread ID 0x2
+
+Got a connection from 100007F (36879)
+Created socket 9
+
+Waiting for a connection
+GOT socket 9
+Thread ID 0x1
+
+Got a connection from 100007F (36880)
+Created socket 10
+
+Waiting for a connection
+GOT socket 10
+Thread ID 0
+
+Got a connection from 100007F (36881)
+Created socket 11
+
+Waiting for a connection
+GOT socket 11
+Thread ID 0x6
+
+Got a connection from 100007F (36882)
+Created socket 12
+
+Waiting for a connection
+GOT socket 12
+Thread ID 0x7
+
+Got a connection from 100007F (36883)
+Created socket 13
+
+Waiting for a connection
+GOT socket 13
+Thread ID 0x8
+
+Got a connection from 100007F (36884)
+Created socket 14
+
+Waiting for a connection
+
+Got a connection from 100007F (36885)
+Created socket 15
+
+Waiting for a connection
+
+Got a connection from 100007F (36886)
+Created socket 16
+
+Waiting for a connection
+
+Got a connection from 100007F (36887)
+Created socket 17
+
+Waiting for a connection
+
+Got a connection from 100007F (36888)
+Created socket 18
+
+Waiting for a connection
+
+Got a connection from 100007F (36889)
+Created socket 19
+
+Waiting for a connection
+
+Got a connection from 100007F (36890)
+Created socket 20
+
+Waiting for a connection
+
+Got a connection from 100007F (36891)
+Created socket 21
+
+Waiting for a connection
+
+Got a connection from 100007F (36876)
+Created socket 22
+
+Waiting for a connection
+
+Got a connection from 100007F (36892)
+Created socket 23
+
+Waiting for a connection
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 12
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 7
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 11
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 10
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 6
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 5
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 9
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 8
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 13
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+GOT socket 14
+Thread ID 0
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 14
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+GOT socket 15
+Thread ID 0x7
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 15
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+GOT socket 16
+Thread ID 0
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 16
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+GOT socket 17
+Thread ID 0x3
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 17
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+GOT socket 18
+Thread ID 0x4
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 18
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 4
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+GOT socket 19
+Thread ID 0x3
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 19
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+GOT socket 20
+Thread ID 0x7
+GOT socket 21
+Thread ID 0x4
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 21
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+GOT socket 22
+Thread ID 0x6
+
+got from browser 143
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+rval: 143
+
+buffer: 
+GET /test4.jpg HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: localhost:3000
+User-Agent: lwp-request/6.03 libwww-perl/6.05
+
+
+
+socket: 22
+Got rval 1, path /test4.jpg
+fullpath: /home/bitnami/htdocs/CS360/lab2/test4.jpg
+/home/bitnami/htdocs/CS360/lab2/test4.jpg is a regular file 
+file size = 51793
+this
+
+Type: .jpg
+TYPE : JPG
+HTTP/1.1 200 OK
+Content-Type: image/jpg
+Content-Length: 51793
+
+Bytes: 51793
+
+Closing the socket
+
+GOT socket 23
+Thread ID 0x9
